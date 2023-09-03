@@ -6,7 +6,11 @@
 
 <br>
 
-## 💻 Projeto
+<div align="center"> 
+<h1> 💻 Projeto </h1>
+  
+</br>
+  
 ![pc](https://github.com/Kayqueew/Projeto-Conecta/assets/92122337/5e790e3a-9fe4-4a67-b66f-ec2a0a914e40)
 
 </br>
@@ -16,8 +20,9 @@
 </br>
 
 ![mobile](https://github.com/Kayqueew/Projeto-Conecta/assets/92122337/30e58584-2d2c-456d-883e-f619fa5f7618)
+</div>
 
-
+</br>
 
 ## Instalação
 
