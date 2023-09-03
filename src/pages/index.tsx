@@ -5,13 +5,13 @@ import {
   LandingImage,
   Wrapper,
 } from '@/styles/pages/home'
-import lataQuaraná from '../assets/lata-guarana 1.png'
-import background from '../assets/BackgroundConecta.png'
 import { Product } from '../components/product'
 import { Header } from '../components/header'
 import { DrinksPictures } from '../components/drinksPictures'
 import { ToExperiment } from '../components/ToExperiment'
 import { Contact } from '../components/contact'
+import background from '../assets/backgroundConecta.png'
+import lataGuaraná from '../assets/lata-guarana 1.png'
 
 export default function Home() {
   return (
@@ -36,7 +36,7 @@ export default function Home() {
         </div>
 
         <Image
-          src={lataQuaraná}
+          src={lataGuaraná}
           width={326}
           height={574}
           quality={100}

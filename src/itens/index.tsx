@@ -1,6 +1,6 @@
 /* import garrafa from '../assets/garrafa-guarana 1.png'
 import lata from '../assets/lata-guarana 2.png' */
-import garrafa from '../assets/lata-guarana 1.png'
+import garrafa from '../assets/garrafa-guarana 1.png'
 import lata from '../assets/lata-guarana 2.png'
 
 interface Itens {
@@ -20,7 +20,7 @@ export const Card: Itens[] = [
 
   {
     id: 2,
-    title: 'Garrafa 350ml',
+    title: 'Garrafa 100ml',
     image: lata.src,
     description: 'Lorem ipsum dolor sit amet',
   },
