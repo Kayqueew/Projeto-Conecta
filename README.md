@@ -32,7 +32,9 @@ Projeto desenvolvido em NextJs, TypeScript e stitches
 - keen-slider
 - NextJs
 - React
-- TypeScript 
+- TypeScript
+
+</br>
 
 ## Instalação
 
