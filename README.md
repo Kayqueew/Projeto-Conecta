@@ -1,7 +1,7 @@
 <h2 align="center"> Projeto Conecta </h2>
 
 <p align="center">
-  Projeto de Estágio Frontend React 
+  Projeto de Estágio Front-end
 </p>
 
 <br>
