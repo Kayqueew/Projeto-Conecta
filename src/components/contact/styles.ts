@@ -114,6 +114,6 @@ export const Footer = styled('footer', {
   },
 
   '@media (max-width: 640px)': {
-    margin: '100px 0 40px',
+    padding: '100px 0 40px',
   },
 })
