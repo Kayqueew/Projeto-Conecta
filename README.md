@@ -24,6 +24,16 @@
 
 </br>
 
+
+### Tecnologias usadas:
+Projeto desenvolvido em NextJs, TypeScript e stitches
+
+- stitches
+- keen-slider
+- NextJs
+- React
+- TypeScript 
+
 ## Instalação
 
 * Node.js
